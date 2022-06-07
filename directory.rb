@@ -22,7 +22,7 @@ def process(selection)
             exit
         else
             puts "I don't know what you meant, try again"
-        end
+    end
 end
 
 def interactive_menu
